@@ -1,4 +1,4 @@
-fileDir = '/Users/Roll/Desktop/test0.dxf'
+fileDir = './data/test.dxf'
 
 # indices of the vertices will be shown once the code runs
 
